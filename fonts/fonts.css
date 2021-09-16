@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Poligon-Bold';
+    src: url('Poligon-SemiBold.woff2'),
+        url('Poligon-SemiBold.woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poligon-Regular';
+    src: url('Poligon-Regular.woff2'),
+        url('Poligon-Regular.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
